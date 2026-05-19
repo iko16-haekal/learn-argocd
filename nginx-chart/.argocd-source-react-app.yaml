@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.repository
+    value: iko16/react-app
+    forcestring: true
+  - name: image.tag
+    value: dde6a8a
+    forcestring: true
