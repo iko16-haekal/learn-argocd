@@ -2,4 +2,4 @@ appName: nginx-helm
 replicaCount: 1
 image:
   repository: iko16/react-app
-  tag: "v1"
+  tag: "dde6a8a"
